@@ -1,4 +1,4 @@
 module.exports = {
   publicPath:
-    '/hexVueWeek6HW/dist/'
+    '/hexVueWeek6HW/'
 };
